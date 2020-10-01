@@ -40,6 +40,7 @@
 - [Richa](https://github.com/richa1200)
 - [Vishakha Kumaresan](https://github.com/Vishakha1909)
 - [Nicci Williams](https://github.com:NicciWill-Solutions)
+- [Sonia Lomo](https://github.com/sonylomo)
 - [Himanshu Pal](https://github.com/TechnonHims)
 - [Sabyasachi Das](https://github.com/sabya2301)
 - [Parth Srivastava](https://github.com/savss624)
